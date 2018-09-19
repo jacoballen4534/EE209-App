@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bluetooth Energy Monitor</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="ScanDescription">Press the button below to start scanning for nearby bluetooth LE devices</string>
+    <string name="ScanTest">Start Scanning For Devices</string>
+    <string name="Welcome">Welcome</string>
+    <string name="LaunchTitle">Group 24 Energy Monitor</string>
+    <string name="DevicesFound">Below are the compatible devices found</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="PermissionDenied">Uh oh, something went wrong. A requirement was not met, please try again.</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="no_data">No data</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+    <string name="backButton">Back to device list</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="unableToConnect">It seems that you cannot connect to this device at the moment</string>
+    <string name="groupId">Group 24</string>
+    <string name="defaultReading">000</string>
+
+
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="location_permission_required">Permission to access location is required however it has not been granted yet.</string>
+    <string name="location_permission_not_granted">Location is required to use this app.</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_home">Back</string>
+</resources>
